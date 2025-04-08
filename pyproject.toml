@@ -12,5 +12,6 @@ dependencies = [
     "openai>=1.70.0",
     "pandas>=2.2.3",
     "scipy>=1.15.2",
+    "together>=1.5.5",
     "tqdm>=4.67.1",
 ]
